@@ -7,7 +7,7 @@ Siempre estoy en constante aprendizaje y busco aportar soluciones que generen va
 ---
 
 ## 🔭 Actualmente
-- 🚧 Proyecto **Recognition System Admin** (`front` y `api`) para **Lucro**  
+- 🚧 Colaboradora en **Recognition System Admin** (`front` y `api`) para **Lucro**  
 - 🤝 Colaboradora en **[AllbaLu/microlearning-platform](https://github.com/AllbaLu/microlearning-platform)**  
 
 ---
