@@ -1,5 +1,5 @@
 
-**dximena21/dximena21** is a ✨ _special_ ✨ repository because i# 👩‍💻 ¡Hola! Soy Darcy Morales  
+# 👩‍💻 ¡Hola! Soy Darcy Morales  
 
 Soy **Desarrolladora Junior** apasionada por el desarrollo **frontend y backend**.  
 Siempre estoy en constante aprendizaje y busco aportar soluciones que generen valor 🚀.  
