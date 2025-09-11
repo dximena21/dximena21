@@ -38,7 +38,8 @@ Siempre estoy en constante aprendizaje y busco aportar soluciones que generen va
 ---
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/darcy-morales-911964367/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/darcy-morales-911964367/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darciiimorales17@gmail.com)
 
 ---
 
