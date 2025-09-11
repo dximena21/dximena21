@@ -7,7 +7,7 @@ Siempre estoy en constante aprendizaje y busco aportar soluciones que generen va
 ---
 
 ## 🔭 Actualmente
-- 🚧 Trabajo en el proyecto **¨[LUCRO-INC/recognition-system-admin-front](https://github.com/LUCRO-INC/recognition-system-admin-front)** y **¨[LUCRO-INC/recognition-system-admin-api](https://github.com/LUCRO-INC/recognition-system-admin-api)**  para**[LUCRO](https://github.com/LUCRO-INC)**  
+- 🚧 Trabajo en los proyectos **[LUCRO-INC/recognition-system-admin-front](https://github.com/LUCRO-INC/recognition-system-admin-front)** y **[LUCRO-INC/recognition-system-admin-api](https://github.com/LUCRO-INC/recognition-system-admin-api)**  para **[LUCRO](https://github.com/LUCRO-INC)**  
 - 🤝 Colaboradora en **[AllbaLu/microlearning-platform](https://github.com/AllbaLu/microlearning-platform)**  
 
 ---
