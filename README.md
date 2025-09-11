@@ -1,23 +1,25 @@
 
-                                                                                    # 👩‍💻 ¡Hola! Soy Darcy Morales  
-                                                          
-                                                          Soy **Desarrolladora Junior** apasionada por el desarrollo **frontend y backend**.  
-                                                          Siempre estoy en constante aprendizaje y busco aportar soluciones que generen valor 🚀.  
+  👩‍💻 ¡Hola! Soy Darcy Morales  
+                                                                                     
+  Soy **Desarrolladora Junior** apasionada por el desarrollo **frontend y backend**.  
+  Siempre estoy en constante aprendizaje y busco aportar soluciones que generen valor 🚀.  
 
 
-                                                                                          ## 🔭 Actualmente
+ 🔭 Actualmente
+ 
 - 🚧 Trabajo en los proyectos **[LUCRO-INC/recognition-system-admin-front](https://github.com/LUCRO-INC/recognition-system-admin-front)** y **[LUCRO-INC/recognition-system-admin-api](https://github.com/LUCRO-INC/recognition-system-admin-api)**  para **[LUCRO](https://github.com/LUCRO-INC)**  
 - 🤝 Colaboradora en **[AllbaLu/microlearning-platform](https://github.com/AllbaLu/microlearning-platform)**  
 
 
-                                                                                        ## 🌱 Estoy aprendiendo
+ 🌱 Estoy aprendiendo
+ 
 - ⚛️ **React** y **JSX**  
 - 📌 Profundizando en **JavaScript**, **TypeScript** y **Python**  
 
 
-                                                                                        ## 💻 Tecnologías  
+  💻 Tecnologías  
 
-### Lenguajes & Frameworks
+**Lenguajes & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)  
@@ -27,7 +29,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)  
 
 
-                                                                                        ## 🤝 Me interesa
+  🤝 Me interesa
+  
 - 🌍 Colaborar en proyectos **open source** y de **voluntariado**  
 - 🗂️ Construir un **portafolio** con proyectos pequeños y medianos
 - 
