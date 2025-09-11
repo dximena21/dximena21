@@ -40,6 +40,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/darcy-morales-911964367/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darciiimorales17@gmail.com)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dxmorales21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dxmorales21&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxmorales21&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ✨ *“Siempre en constante aprendizaje, buscando aportar soluciones con valor agregado.”*  
