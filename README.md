@@ -17,9 +17,10 @@
 - 📌 Profundizando en **JavaScript**, **TypeScript** y **Python**  
 
 
-  💻 Tecnologías  
+💻 Tecnologías  
 
 **Lenguajes & Frameworks**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)  
@@ -29,11 +30,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)  
 
 
-  🤝 Me interesa
+🤝 Me interesa
   
 - 🌍 Colaborar en proyectos **open source** y de **voluntariado**  
 - 🗂️ Construir un **portafolio** con proyectos pequeños y medianos
-- 
+
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/darcy-morales-911964367/) 
