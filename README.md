@@ -7,7 +7,7 @@
 
  🔭 Actualmente
  
-- 🚧 Trabajo en los proyectos **[LUCRO-INC/recognition-system-admin-front](https://github.com/LUCRO-INC/recognition-system-admin-front)** y **[LUCRO-INC/recognition-system-admin-api](https://github.com/LUCRO-INC/recognition-system-admin-api)**  para **[LUCRO](https://github.com/LUCRO-INC)**  
+- 🚧 Trabaja en los proyectos **[LUCRO-INC/recognition-system-admin-front](https://github.com/LUCRO-INC/recognition-system-admin-front)** y **[LUCRO-INC/recognition-system-admin-api](https://github.com/LUCRO-INC/recognition-system-admin-api)**  para **[LUCRO](https://github.com/LUCRO-INC)**  
 - 🤝 Colaboradora en **[AllbaLu/microlearning-platform](https://github.com/AllbaLu/microlearning-platform)**  
 
 
