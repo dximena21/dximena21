@@ -1,7 +1,7 @@
 
   👩‍💻 ¡Hola! Soy Darcy Morales  
                                                                                      
-  Soy **Desarrolladora Junior** apasionada por el desarrollo **frontend y backend**.  
+  Soy **Desarrolladora Fullstack** apasionada por el desarrollo **frontend y backend**.  
   Siempre estoy en constante aprendizaje y busco aportar soluciones que generen valor 🚀.  
 
 
